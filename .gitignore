@@ -1,2 +1,4 @@
 /target
 /input
+src/bin/template.rs
+src/main.rs
